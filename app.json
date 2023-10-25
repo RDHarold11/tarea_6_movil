@@ -8,6 +8,17 @@
       "expo-router"
     ],
     "name": "Tarea_6",
-    "slug": "Tarea_6"
+    "slug": "Tarea_6",
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "e2955f22-dff2-45fc-b123-6c42c4a6283b"
+      }
+    },
+    "android": {
+      "package": "com.haroldap.Tarea_6"
+    }
   }
 }
